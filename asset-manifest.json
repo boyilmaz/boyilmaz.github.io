@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/boyilmaz/boyilmaz.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/boyilmaz/boyilmaz.github.io.git/static/js/main.9617d951.js",
+    "static/media/boyilmaz_portfolio.pdf": "/boyilmaz/boyilmaz.github.io.git/static/media/boyilmaz_portfolio.4aa9336b3b77e333bfb4.pdf",
+    "index.html": "/boyilmaz/boyilmaz.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/boyilmaz/boyilmaz.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.9617d951.js.map": "/boyilmaz/boyilmaz.github.io.git/static/js/main.9617d951.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9617d951.js"
+  ]
+}
